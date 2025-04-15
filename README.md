@@ -1,4 +1,4 @@
-Frontend Developer ￮ TypeScript, React, UX/UI
+Frontend Developer + Artist ￮ TypeScript, React, UX/UI
 
 <!---
 DPlushie/DPlushie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
