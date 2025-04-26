@@ -1,6 +1,2 @@
-Frontend Developer + Artist ￮ TypeScript, React, UX/UI
-
-<!---
-DPlushie/DPlushie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2761F7&width=435&lines=%2F%2F+Dragon+Plushie)](https://git.io/typing-svg)
+✦ Frontend Developer ✦ Artist ✦ TypeScript, React, UX/UI
